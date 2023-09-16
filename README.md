@@ -12,7 +12,7 @@
   A program that manages student grades. Allow the user to input  student names and their corresponding grades. 
   Calculate the average grade and display it along with the highest and the lowest grades.
 
-*Task4-WORD COUNT
+* Task4-WORD COUNT
   A program that counts the number of words in a given text file. Prompt the user to enter the file name and display
   the total word count.
 
